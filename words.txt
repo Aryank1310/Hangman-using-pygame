@@ -1,54 +1,62 @@
-﻿Greedy : लालची
-Revenge : बदला
-Tough : कठिन
-Cost : कीमत
-Spoil : खराब कर देना
-Know : जानना
-Goal : लक्ष्य
-Praise : तारीफ करना
-Need : जरूरत
-Tolerate : बर्दाश्त करना
-Irritate : चिढाना
-Honest : ईमानदार 
-Neighbour : पड़ोसी
-Exception : अपवाद
-Imitate : नकल करना
-Violence : हिंसा
-Intention : इरादा
-Illusion : भ्रम
-Willpower : इचछाशक्ति
-Flexible : लचीला
-Lucky : भाग्यशाली
-Wicked : दुब्ट
-Weak : कमजोर
-Enemy :  दुश्मन
-Effect : प्रभाव
-Demand : माँग
-Spend : खर्च करना
-Accurate : सटीक
-Arrogant : अहंकारी
-Learn : सीखना
-Allow : अनुमति देना
-Hesitate : संकोच करना
-Bother : तंग करना
-Stubborn : जिद्दी
-Rotten : सड़ा हुआ
-Ultimate : अंतिम
-Almost : लगभग
-Innocent : निर्दोष
-Guilty : दोषी
-Perhaps : शायद
-Result : परिणाम
-Faithful : वफादार
-Blame : दोष देना
-Rely : भरोसा करना
-Actually : दरअसल
-Destroy : बर्बाद करना
-Wink : आँख मारना
-Burden : बोझ
-Justify : सही साबित करना
-Wise : समझदार
-Priority : प्राथमिकता
-Regular : नियमित
-Agree : सहमत होना
-Risky : खतरे वाला
+Serena: A famous tennis player
+Messi: A famous soccer player from Argentina
+Tokyo: A city in Japan that hosted the 2020 Olympics
+LeBron: A famous basketball player from the United States
+Churchill: A former Prime Minister of the United Kingdom
+Mozart: A famous composer from Austria
+Gandhi: A former political and spiritual leader of India
+Paris: A city in France known for its fashion and culture
+Hemingway: A famous American writer
+Einstein: A famous scientist known for his theories of relativity
+Jordan: A famous basketball player from the United States
+Napoleon: A former emperor of France
+Beethoven: A famous composer from Germany
+Washington: The first president of the United States
+London: The capital city of the United Kingdom
+Picasso: A famous artist from Spain
+Newton: A famous scientist known for his laws of motion
+Brazil: A country in South America known for its soccer team
+Mandela: A former political leader of South Africa
+Buddha: A former spiritual leader from India
+Federer: A famous tennis player from Switzerland
+Darwin: A famous scientist known for his theory of evolution
+Florence: A city in Italy known for its art and architecture
+Trump: A former president of the United States
+Spielberg: A famous American movie director
+Amsterdam: The capital city of the Netherlands
+Austen: A famous English writer known for her novels
+Titanic: A famous ship that sank in 1912
+Hollywood: A neighborhood in Los Angeles known for its movie industry
+Sinatra: A famous American singer and actor
+Dalai Lama: A spiritual leader of Tibet
+Athens: The capital city of Greece
+Austen: A famous English writer known for her novels
+Churchill: A former Prime Minister of the United Kingdom
+Jobs: A former CEO of Apple Inc.
+Picasso: A famous artist from Spain
+Da Vinci: A famous Italian artist and inventor
+Mozart: A famous composer from Austria
+Berlin: The capital city of Germany
+Shakespeare: A famous English writer known for his plays
+Titanic: A famous ship that sank in 1912
+Colosseum: A famous ancient amphitheater in Rome
+Hollywood: A neighborhood in Los Angeles known for its movie industry
+Mandela: A former political leader of South Africa
+London: The capital city of the United Kingdom
+Napoleon: A former emperor of France
+Einstein: A famous scientist known for his theories of relativity
+Messi: A famous soccer player from Argentina
+Serena: A famous tennis player
+Hemingway: A famous American writer
+Buddha: A former spiritual leader from India
+Austen: A famous English writer known for her novels
+Jobs: A former CEO of Apple Inc.
+Picasso: A famous artist from Spain
+Da Vinci: A famous Italian artist and inventor
+Mandela: A former political leader of South Africa
+Hemingway: A famous American writer
+Shakespeare: A famous English writer known for his plays
+Newton: A famous scientist known for his laws of motion
+Berlin: The capital city of Germany
+Titanic: A famous ship that sank in 1912
+Florence: A city in Italy
